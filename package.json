@@ -1,0 +1,23 @@
+{
+  "name": "tinypng",
+  "version": "1.0.0",
+  "description": "compress images with tinypng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tinypng"
+  ],
+  "type": "module",
+  "author": "Lyue",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^9.0.0",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0",
+    "inquirer": "^8.2.0",
+    "tinify": "^1.6.1"
+  }
+}
